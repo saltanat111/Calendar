@@ -79,4 +79,8 @@ body {
 
 .clock{
     font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+}
+.date.inactive {
+    color: #ccc; 
 }
