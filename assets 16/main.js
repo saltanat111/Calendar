@@ -68,8 +68,5 @@ function realtimeClock() {
 
     clock.innerHTML = `${hours} : ${minutes} ${amPm}`;
     setTimeout(realtimeClock, 500);
-
-    // clock.innerHTML = clockHTML;
-
 }
 realtimeClock();
