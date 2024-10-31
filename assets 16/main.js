@@ -49,7 +49,6 @@ nextBtn.addEventListener('click', () => {
 
 updateCalendar();
 
-
 const clock = document.getElementById("clock");
 let clockHTML = '';
 function realtimeClock() {
